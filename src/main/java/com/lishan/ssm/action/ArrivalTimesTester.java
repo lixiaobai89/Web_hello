@@ -18,7 +18,7 @@ public class ArrivalTimesTester {
             time = time();
             System.out.println(time);
             sum+=time;
-        }
+        }//
         System.out.println("avg= "+sum/8);
     }
 }
