@@ -6,8 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Web_hello" />
         <module name="Web_hell" />
+        <module name="Web_hello" />
       </profile>
     </annotationProcessing>
   </component>
