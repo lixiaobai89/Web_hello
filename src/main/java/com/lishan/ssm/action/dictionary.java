@@ -13,6 +13,7 @@ public class dictionary {
     public String dir(){
 
         System.out.println("ddd");
+        System.out.println("aaa");
         return index;
     }
 
