@@ -14,7 +14,6 @@ public class dictionary {
 
         System.out.println("ddd");
         System.out.println("aaa");
-        System.out.println("bbb");
         return index;
     }
 

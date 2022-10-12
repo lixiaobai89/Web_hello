@@ -19,8 +19,6 @@ public class Test {
         s = "bbb";
         System.out.println("这是Test类" + s);
 
-        System.out.println("zzz");
-
         return s;
     }
 }
